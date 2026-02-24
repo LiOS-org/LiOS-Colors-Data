@@ -1,7 +1,7 @@
 {
     "projectName" : "LiOS Colors Data",
     "projectDescription" : "A computer understandable dataset of colors and it's names, primarily used by LiOS-Colors",
-    "projectVersion" : "1.0.0",
+    "projectVersion" : "1.0.1",
     "versionName" : "Vibrant Nights",
     "favicon" : "/assets/logo.png",
     "baseUrl": "https://raw.githubusercontent.com/LiOS-org/LiOS-Colors-Data/refs/heads/main",
